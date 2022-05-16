@@ -79,7 +79,8 @@ const useWeb3Modal = () => {
           },
           display: {
             name: "Email or Social",
-            description: "Torus provides easy one-click social or email wallets",
+            description:
+              "Torus provides easy one-click social or email wallets",
             logo: emailIconDataUri,
           },
         },
